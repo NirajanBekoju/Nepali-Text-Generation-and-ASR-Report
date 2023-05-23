@@ -1,0 +1,37 @@
+\contentsline {chapter}{\numberline {1}Introduction to Nepali Language Model}{5}{}%
+\contentsline {section}{\numberline {1.1}Abstract}{5}{}%
+\contentsline {section}{\numberline {1.2}Introduction}{5}{}%
+\contentsline {subsection}{\numberline {1.2.1}Nepali Text Generation}{6}{}%
+\contentsline {subsection}{\numberline {1.2.2}Nepali Automatic Speech Recognition}{6}{}%
+\contentsline {section}{\numberline {1.3}Problem Statement}{6}{}%
+\contentsline {section}{\numberline {1.4}Objectives}{6}{}%
+\contentsline {section}{\numberline {1.5}Project Management}{7}{}%
+\contentsline {section}{\numberline {1.6}Expected Outcome}{7}{}%
+\contentsline {chapter}{\numberline {2}Literature Review}{9}{}%
+\contentsline {section}{\numberline {2.1}A Neural Probabilistic Language Model}{9}{}%
+\contentsline {subsection}{\numberline {2.1.1}Introduction}{9}{}%
+\contentsline {subsection}{\numberline {2.1.2}NPLM Architecture}{9}{}%
+\contentsline {subsection}{\numberline {2.1.3}Conclusion and Results}{10}{}%
+\contentsline {section}{\numberline {2.2}Attention is all you need}{11}{}%
+\contentsline {subsection}{\numberline {2.2.1}Introduction}{11}{}%
+\contentsline {subsection}{\numberline {2.2.2}Transformer Model Architecture}{11}{}%
+\contentsline {subsubsection}{Encoder and Decoder Stacks}{12}{}%
+\contentsline {subsubsection}{Attention}{12}{}%
+\contentsline {subsubsection}{Position wise Feed Forward Neural Network}{13}{}%
+\contentsline {subsubsection}{Embedding and Softmax}{14}{}%
+\contentsline {subsubsection}{Positional Encoding}{14}{}%
+\contentsline {subsection}{\numberline {2.2.3}Conclusion and Results}{14}{}%
+\contentsline {section}{\numberline {2.3}Nepali Speech Recognition Using CNN, GRU, and CTC}{15}{}%
+\contentsline {chapter}{\numberline {3}Requirement Analysis and Feasibility Study}{16}{}%
+\contentsline {section}{\numberline {3.1}Functional and Non-Functional Requirements}{16}{}%
+\contentsline {subsection}{\numberline {3.1.1}Functional Requirements}{16}{}%
+\contentsline {subsection}{\numberline {3.1.2}Non-Functional Requirements}{16}{}%
+\contentsline {section}{\numberline {3.2}Hardware Requirements}{17}{}%
+\contentsline {section}{\numberline {3.3}Software Requirements}{17}{}%
+\contentsline {section}{\numberline {3.4}Feasibility Study}{17}{}%
+\contentsline {subsection}{\numberline {3.4.1}Technical Feasibility}{17}{}%
+\contentsline {subsection}{\numberline {3.4.2}Economic Feasibility}{18}{}%
+\contentsline {subsection}{\numberline {3.4.3}Legal Feasibility}{18}{}%
+\contentsline {subsection}{\numberline {3.4.4}Scheduling Feasibility}{18}{}%
+\contentsline {chapter}{\numberline {4}Conclusion}{19}{}%
+\contentsline {chapter}{References}{20}{}%

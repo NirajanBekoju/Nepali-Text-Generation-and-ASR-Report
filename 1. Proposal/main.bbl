@@ -1,0 +1,51 @@
+\begin{thebibliography}{1}
+
+\bibitem{NIPS2017_3f5ee243}
+A.~Vaswani, N.~Shazeer, N.~Parmar, J.~Uszkoreit, L.~Jones, A.~N. Gomez, L.~u.
+  Kaiser, and I.~Polosukhin, ``Attention is all you need,'' in {\em Advances in
+  Neural Information Processing Systems} (I.~Guyon, U.~V. Luxburg, S.~Bengio,
+  H.~Wallach, R.~Fergus, S.~Vishwanathan, and R.~Garnett, eds.), vol.~30,
+  Curran Associates, Inc., 2017.
+
+\bibitem{radford2019language}
+A.~Radford, J.~Wu, R.~Child, D.~Luan, D.~Amodei, I.~Sutskever, {\em et~al.},
+  ``Language models are unsupervised multitask learners,'' {\em OpenAI blog},
+  vol.~1, no.~8, p.~9, 2019.
+
+\bibitem{bengio2000neural}
+Y.~Bengio, R.~Ducharme, and P.~Vincent, ``A neural probabilistic language
+  model,'' {\em Advances in neural information processing systems}, vol.~13,
+  2000.
+
+\bibitem{mikolov2013distributed}
+T.~Mikolov, I.~Sutskever, K.~Chen, G.~S. Corrado, and J.~Dean, ``Distributed
+  representations of words and phrases and their compositionality,'' {\em
+  Advances in neural information processing systems}, vol.~26, 2013.
+
+\bibitem{timilsina2022nepberta}
+S.~Timilsina, M.~Gautam, and B.~Bhattarai, ``Nepberta: Nepali language model
+  trained in a large corpus,'' in {\em Proceedings of the 2nd Conference of the
+  Asia-Pacific Chapter of the Association for Computational Linguistics and the
+  12th International Joint Conference on Natural Language Processing},
+  pp.~273--284, 2022.
+
+\bibitem{karita2019comparative}
+S.~Karita, N.~Chen, T.~Hayashi, T.~Hori, H.~Inaguma, Z.~Jiang, M.~Someki,
+  N.~E.~Y. Soplin, R.~Yamamoto, X.~Wang, {\em et~al.}, ``A comparative study on
+  transformer vs rnn in speech applications,'' in {\em 2019 IEEE Automatic
+  Speech Recognition and Understanding Workshop (ASRU)}, pp.~449--456, IEEE,
+  2019.
+
+\bibitem{joshi2022novel}
+B.~Joshi, B.~Bhatta, S.~P. Panday, and R.~K. Maharjan, ``A novel deep learning
+  based nepali speech recognition,'' in {\em Innovations in Electrical and
+  Electronic Engineering: Proceedings of ICEEE 2022, Volume 2}, pp.~433--443,
+  Springer, 2022.
+
+\bibitem{bhatta2020nepali}
+B.~Bhatta, B.~Joshi, and R.~K. Maharjhan, ``Nepali speech recognition using
+  cnn, gru and ctc,'' in {\em Proceedings of the 32nd Conference on
+  Computational Linguistics and Speech Processing (ROCLING 2020)},
+  pp.~238--246, 2020.
+
+\end{thebibliography}
