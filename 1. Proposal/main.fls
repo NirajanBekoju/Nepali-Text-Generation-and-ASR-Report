@@ -1,9 +1,9 @@
-PWD /media/nirajan/cea4c185-1562-436a-bf0b-3d5b8338414e/Nepali Language Processing/Report/Major Project/1. Proposal
+PWD /media/nirajan/cea4c185-1562-436a-bf0b-3d5b8338414e/Major Project/Report/Nepali-Text-Generation-and-ASR-Report-main/1. Proposal
 INPUT /etc/texmf/web2c/texmf.cnf
 INPUT /usr/share/texmf/web2c/texmf.cnf
 INPUT /usr/share/texlive/texmf-dist/web2c/texmf.cnf
 INPUT /var/lib/texmf/web2c/pdftex/pdflatex.fmt
-INPUT /media/nirajan/cea4c185-1562-436a-bf0b-3d5b8338414e/Nepali Language Processing/Report/Major Project/1. Proposal/main.tex
+INPUT /media/nirajan/cea4c185-1562-436a-bf0b-3d5b8338414e/Major Project/Report/Nepali-Text-Generation-and-ASR-Report-main/1. Proposal/main.tex
 OUTPUT main.log
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/report.cls
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/report.cls
@@ -578,6 +578,9 @@ INPUT chapter/Literature_review.aux
 INPUT ./chapter/requirement_analysis.aux
 INPUT chapter/requirement_analysis.aux
 INPUT chapter/requirement_analysis.aux
+INPUT ./chapter/proposed_methodology.aux
+INPUT chapter/proposed_methodology.aux
+INPUT chapter/proposed_methodology.aux
 INPUT ./chapter/conclusion.aux
 INPUT chapter/conclusion.aux
 INPUT chapter/conclusion.aux
@@ -732,6 +735,26 @@ INPUT ./chapter/requirement_analysis.tex
 INPUT chapter/requirement_analysis.tex
 INPUT ./chapter/requirement_analysis.tex
 INPUT chapter/requirement_analysis.tex
+INPUT ./chapter/proposed_methodology.tex
+INPUT ./chapter/proposed_methodology.tex
+INPUT ./chapter/proposed_methodology.tex
+OUTPUT chapter/proposed_methodology.aux
+INPUT ./chapter/proposed_methodology.tex
+INPUT ./chapter/proposed_methodology.tex
+INPUT ./chapter/proposed_methodology.tex
+INPUT chapter/proposed_methodology.tex
+INPUT ./chapter/proposed_methodology.tex
+INPUT chapter/proposed_methodology.tex
+INPUT ./image//proposed_methodology/transformer_encoder.png
+INPUT ./image//proposed_methodology/transformer_encoder.png
+INPUT image//proposed_methodology/transformer_encoder.png
+INPUT ./image//proposed_methodology/transformer_encoder.png
+INPUT ./image//proposed_methodology/transformer_encoder.png
+INPUT ./image//proposed_methodology/asr_transformer.png
+INPUT ./image//proposed_methodology/asr_transformer.png
+INPUT image//proposed_methodology/asr_transformer.png
+INPUT ./image//proposed_methodology/asr_transformer.png
+INPUT ./image//proposed_methodology/asr_transformer.png
 INPUT ./chapter/conclusion.tex
 INPUT ./chapter/conclusion.tex
 INPUT ./chapter/conclusion.tex
@@ -762,6 +785,9 @@ INPUT chapter/Literature_review.aux
 INPUT ./chapter/requirement_analysis.aux
 INPUT chapter/requirement_analysis.aux
 INPUT chapter/requirement_analysis.aux
+INPUT ./chapter/proposed_methodology.aux
+INPUT chapter/proposed_methodology.aux
+INPUT chapter/proposed_methodology.aux
 INPUT ./chapter/conclusion.aux
 INPUT chapter/conclusion.aux
 INPUT chapter/conclusion.aux

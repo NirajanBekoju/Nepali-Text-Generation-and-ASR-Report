@@ -1,20 +1,24 @@
 \chapter{Introduction to Nepali Language Model}
 \section{Abstract}
-This proposal is prepared for development of Nepali Text Generation model and automatic speech recognition of Nepali language. The objective is to enhance the communication and accessibility for Nepali speakers. The project will involve the implementation of machine learning models and the utilization of a large corpus of Nepali text and speech data to train and fine-tune the model. The successful completion of this project will result in the creation of robust and accurate Nepali text generation model which can work as a basis for the development of various other NLP models like Automatic Speech Recognition, Nepali Text Summarization, Question Answering, Content Generation, Paraphrasing, etc. In addition, the development of Automatic Speech Recognition (ASR) for the Nepali language can greatly assist individuals who lack writing skills in effectively conveying their ideas.
+This proposal is prepared for the development of the Text Generation Model(Language Model), Spelling Correction system, and Automatic Speech Recognition system for the Nepali language. The broad objective of our project is to use emerging NLP technologies in the Nepali Language so as to enhance communication and accessibility for Nepali speakers. The project will involve the implementation of machine learning models and the utilization of a large corpus of Nepali text and speech data to train and fine-tune the models. A Language Model(LM) is a powerful computational model that predicts the likelihood of a sequence of words or characters based on the context provided. The successful training of an LM will result in a robust and accurate text generation model capable of being used as a basis for the development of various other NLP systems like Automatic Speech Recognition, Spelling Correction, Nepali Text Summarization, Question Answering, Content Generation, Paraphrasing, etc. This proposal aims to develop one such general LM for the Nepali language and show how the generative model can be used to empower two important downstream applications: Spelling Correction and Speech Recognition.
 
 
 \textbf{Keywords: } Nepali Text Generation, Nepali Speech-to-Text, Transformer, LSTM, MFCC
 
 
 \section{Introduction}
-This proposal outlines a project focused on Nepali text generation and Nepali automatic speech recognition. The objective of this endeavor is to develop advanced language processing technologies specifically tailored to the Nepali language, facilitating improved communication, information access, and interaction for Nepali-speaking individuals.
+This proposal outlines a project focused on text generation, spelling correction, and automatic speech recognition for the Nepali Language. The objective of this endeavor is to develop advanced language processing technologies specifically tailored to the Nepali language, facilitating improved communication, information access, and interaction for Nepali-speaking individuals.
 
 Nepali, as one of the prominent languages in Nepal and various regions of South Asia, holds significant cultural and linguistic importance. However, the availability of robust language processing tools and resources for Nepali remains limited compared to widely studied languages. This project aims to bridge this gap by developing innovative solutions that address the specific linguistic characteristics and challenges of the Nepali language.
 
-The project will primarily focus on two key areas: Nepali text generation and Nepali automatic speech recognition.
+The project will primarily focus on three key areas: Nepali text generation, Spelling Correction, and Nepali automatic speech recognition.
 
 \subsection{Nepali Text Generation}
 Nepali text generation involves the creation of algorithms and models capable of generating coherent and contextually appropriate Nepali text. This technology holds immense potential in applications such as natural language interfaces, chatbots, content generation, and machine translation systems. By developing advanced techniques for Nepali text generation, we can significantly enhance the quality and efficiency of communication and content creation in Nepali.
+
+\subsection{Nepali Spelling Corrector}
+Spelling correction involves identifying and rectifying misspelled words in text documents, thereby enhancing readability, clarity, and overall quality of written content. In the realm of social media and online communication platforms, spelling correction algorithms are instrumental in automatically suggesting corrections and avoiding misunderstandings caused by misspellings. By automatically detecting and rectifying spelling errors, these algorithms ensure clearer communication, enhance information retrieval, and facilitate more accurate translations.
+
 
 \subsection{Nepali Automatic Speech Recognition}
 Nepali automatic speech recognition aims to design and develop algorithms and systems that can accurately transcribe spoken Nepali into written text. This technology has the potential to revolutionize various domains, including transcription services, voice-controlled applications, voice assistants, and accessibility tools for individuals with hearing impairments. By leveraging state-of-the-art techniques in speech recognition, we can unlock new opportunities for Nepali speakers to interact with technology and access information more seamlessly.
@@ -36,8 +40,8 @@ By undertaking this project, we aspire to make significant strides in advancing 
 
 \section{Objectives}
 \begin{enumerate}
-    \item To develop Nepali language model for text generation.
-    \item To develop Nepali Automatic Speech Recognition System.
+    \item To develop Nepali language model.
+    \item To use the language model for developing Spelling Correction System and Automatic Speech Recognition System for the Nepali Language.
 \end{enumerate}
 
 \section{Project Management}
@@ -64,5 +68,5 @@ For language generation model, after user input some text, language generation m
     \label{fig:Nepali Text Generation}
 \end{figure}
 
-And for the Nepali ASR, the model should be able to take Nepali audio as an input and convert it to Nepali text.
+For the Spelling Correction system, the input is possibly misspelled Nepali sentences, and the output is contextually determined possible candidate correction words for every incorrect word in the input. Finally, for the Nepali ASR, the model should be able to take Nepali audio as an input and convert it to Nepali text.
 

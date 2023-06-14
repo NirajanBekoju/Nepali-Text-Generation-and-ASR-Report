@@ -48,4 +48,9 @@ B.~Bhatta, B.~Joshi, and R.~K. Maharjhan, ``Nepali speech recognition using
   Computational Linguistics and Speech Processing (ROCLING 2020)},
   pp.~238--246, 2020.
 
+\bibitem{pham2019very}
+N.-Q. Pham, T.-S. Nguyen, J.~Niehues, M.~M{\"u}ller, S.~St{\"u}ker, and
+  A.~Waibel, ``Very deep self-attention networks for end-to-end speech
+  recognition,'' {\em arXiv preprint arXiv:1904.13377}, 2019.
+
 \end{thebibliography}
